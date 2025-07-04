@@ -27,10 +27,10 @@
     <a href="#" class="logo">GIYKU</a>
     <i class="bx bx-menu" id="menu-icon"></i>
     <nav class="navbar">
-      <a href="#home" class="active">Beranda</a>
-      <a href="#services">Layanan</a>
-      <a href="#portfolio">Portofolio</a>
-      <a href="#contact">Kontak</a>
+      <a href="#home" class="active">Home</a>
+      <a href="#services">Services</a>
+      <a href="#portfolio">Project</a>
+      <a href="#contact">Contact</a>
     </nav>
   </header>
 
@@ -82,7 +82,8 @@
         <img src="images/xp.png" alt="xp" title="xp">
         <img src="images/git.png" alt="git" title="git">
         <img src="images/github.png" alt="github" title="github">
-        <img src="images/if.png" alt="if" title="if"> 
+        <img src="images/if.png" alt="if" title="if">
+        <img src="images/fb.png" alt="fb" title="fb">
         <img src="images/varcel.png" alt="varcel" title="varcel">   
         <img src="images/vsc.png" alt="vsc" title="vsc"> 
         <img src="images/vscu.png" alt="vscu" title="vscu">     
@@ -167,7 +168,7 @@
   <!-- Contact -->
   <section class="contact" id="contact">
     <h2 class="heading"> Contact <span>Me!</span></h2>
-    <form action="mailto:sugiyantos1sisfo.@mahasiswa.ung.ac.id" method="post" enctype="text/plain">
+    <form action="mailto:sugiyanto_s1sisfo@mahasiswa.ung.ac.id" method="post" enctype="text/plain">
       <div class="input-box">
         <input type="text" placeholder="Nama Lengkap" />
         <input type="email" placeholder="Alamat Email" />
